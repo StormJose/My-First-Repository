@@ -1,8 +1,8 @@
-# livro de receitas :notebook_with_decorative_cover:
+# First Repository :notebook_with_decorative_cover:
 
-Olá, bem vindo ao livro de receitas :hand:
+Olá, bem vindo ao meu Primeiro Repositório :hand:
 
-<ul> <li>Frango a Milanesa</li>
+<ul> <li></li>
 
 
 
